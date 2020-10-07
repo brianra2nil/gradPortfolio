@@ -1,0 +1,24 @@
+
+.head {
+font-family: 'Sansita Swashed', cursive;
+font-size: 40px;
+}
+
+
+.about {
+    font-size:  35px;
+    color: blue;
+}
+
+.skill {
+    font-size: 25px;
+}
+
+.middle {
+    font-family: 'Piazzolla', serif;
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+}
