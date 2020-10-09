@@ -6,8 +6,19 @@ font-size: 40px;
 
 
 .about {
-    font-size:  35px;
+    font-size:  20px;
     color: blue;
+    text-align: center;
+  
+}
+
+.background {
+    background-image: url("./pics/codinglaptop.jpg");
+    background-repeat: no-repeat;
+    height: 312px;
+    width: 602px;
+ 
+    
 }
 
 .skill {
@@ -22,3 +33,4 @@ font-size: 40px;
 .center {
     text-align: center;
 }
+
